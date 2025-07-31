@@ -23,8 +23,6 @@
 Currently working on a platform to manage in-store advertising campaigns  
 Always eager to learn, improve, and collaborate on exciting projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimA1335&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Let's Connect
 - LinkedIn: https://linkedin.com/in/oumaimachelly  
 - Email: your.email@example.com
@@ -32,3 +30,8 @@ Always eager to learn, improve, and collaborate on exciting projects
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my projects and reach out if you'd like to collaborate.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OumaimA1335&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimA1335&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+                                                                                                 
