@@ -12,7 +12,7 @@
 - 🔧 Using SpringBoot / Express.js for backend APIs  
 
 ## 🧰 Tools & Technologies
-- Flutter, Express.js, Java, MySQL 
+- Flutter,nextJS, Express.js, Java, MySQL ,mongoDB 
 - GetX, Git, Postman  
 
 ## 🧠 AI Interests
@@ -24,7 +24,7 @@ Currently working on a platform to manage in-store advertising campaigns
 Always eager to learn, improve, and collaborate on exciting projects
 
 ## 📫 Let's Connect
-- LinkedIn: https://linkedin.com/in/oumaimachelly  
+- LinkedIn: [https://linkedin.com/in/oumaimachelly  ](https://www.linkedin.com/in/oumaima-chelly-67a016200/)
 - Email: chellyoumaima7@gmail.com
 
 ---
