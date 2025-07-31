@@ -25,7 +25,7 @@ Always eager to learn, improve, and collaborate on exciting projects
 
 ## 📫 Let's Connect
 - LinkedIn: https://linkedin.com/in/oumaimachelly  
-- Email: your.email@example.com
+- Email: chellyoumaima7@gmail.com
 
 ---
 
