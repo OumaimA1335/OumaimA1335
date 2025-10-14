@@ -13,7 +13,12 @@
 
 ## 🧰 Tools & Technologies
 - Flutter,nextJS, Express.js, Java, MySQL ,mongoDB 
-- GetX, Git, Postman  
+- GetX, Git, Postman
+  
+## ⚙️ DevOps
+- 🐳 **Docker** → Containerization and environment setup  
+- ☁️ **AWS** → Cloud deployment and hosting  
+- 🧱 **SonarQube** → Code quality analysis and static testing  
 
 ## 🧠 AI Interests
 - 🤖 Interested in AI integration and building smart AI agents  
